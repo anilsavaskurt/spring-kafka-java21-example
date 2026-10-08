@@ -1,0 +1,5 @@
+app:
+  kafka:
+    retry:
+      delay-ms: 200
+      multiplier: 1.0
